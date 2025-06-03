@@ -1,2 +1,0 @@
-Hola Git como estas?
-Este cambio esta en la rama pruebas
